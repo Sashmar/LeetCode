@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sashmar/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Sashmar/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Sashmar/LeetCode/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sashmar/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Sashmar/LeetCode/tree/master/0202-happy-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sashmar/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
