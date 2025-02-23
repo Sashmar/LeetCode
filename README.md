@@ -14,9 +14,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sashmar/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Sashmar/LeetCode/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sashmar/LeetCode/tree/master/0202-happy-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sashmar/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/Sashmar/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sashmar/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
