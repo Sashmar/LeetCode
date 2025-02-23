@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Sashmar/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Sashmar/LeetCode/tree/master/0202-happy-number) |
+| [0342-power-of-four](https://github.com/Sashmar/LeetCode/tree/master/0342-power-of-four) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sashmar/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sashmar/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Sashmar/LeetCode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Sashmar/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
