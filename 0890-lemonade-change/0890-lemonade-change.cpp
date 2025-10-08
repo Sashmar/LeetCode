@@ -13,7 +13,7 @@ public:
                 count5--;
                 if(count5 < 0 ) {
                     a = false;
-                    return a;
+                    break;
                 }
             }
             else {
@@ -26,7 +26,7 @@ public:
                 }
                 else {
                     a=false;
-                    return a;
+                    break;
                 }
             }
             i++;
