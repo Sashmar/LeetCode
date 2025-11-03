@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Sashmar/LeetCode/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/Sashmar/LeetCode/tree/master/0283-move-zeroes) |
 | [0890-lemonade-change](https://github.com/Sashmar/LeetCode/tree/master/0890-lemonade-change) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sashmar/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2551-apply-operations-to-an-array](https://github.com/Sashmar/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sashmar/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sashmar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sashmar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sashmar/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2470-removing-stars-from-a-string](https://github.com/Sashmar/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/Sashmar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Sashmar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sashmar/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Sashmar/LeetCode/tree/master/0890-lemonade-change) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sashmar/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Divide and Conquer
 |  |
 | ------- |
