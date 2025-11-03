@@ -18,7 +18,7 @@ public:
             }
             else if(colors[i] == colors[j] && neededTime[i] > neededTime[j] ) {
                 t += neededTime[j];
-                if(colors[j] == colors[j+1] && j + 1 != colors.size()) j++;
+                if(colors[j] == colors[j+1] ) j++;
                 else {
                     j++;
                     i = j - 1;
