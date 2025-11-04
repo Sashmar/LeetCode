@@ -17,7 +17,7 @@ public:
                 return a.second > b.second;     // otherwise, higher freq first
             });
             int sum = 0;
-            for(int b = 0 ; b < x && b < v.size() ; b++){
+            for(int b = 0 ; b < min(x, int(v.size())) ; b++){
                 sum += v[b].first * v[b].second;
             }
             answer.push_back(sum);
