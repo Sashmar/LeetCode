@@ -2,7 +2,7 @@ class Solution {
 public:
     int romanToInt(string s) {
         int sum = 0 ;
-        unordered_map<char, int> val = {
+        map<char, int> val = {
             {'I', 1},
             {'V', 5},
             {'X', 10},
