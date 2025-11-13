@@ -21,7 +21,7 @@ public:
 
         }
 
-        c = (count > c) ? count : c;
-        return c;
+        if(count > c ) return count;
+        else return c;
     }
 };
