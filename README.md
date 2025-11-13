@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/Sashmar/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/Sashmar/LeetCode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Sashmar/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Sashmar/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/Sashmar/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Sashmar/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/Sashmar/LeetCode/tree/master/2630-alternating-digit-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Sashmar/LeetCode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/Sashmar/LeetCode/tree/master/1642-water-bottles) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Sashmar/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/Sashmar/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Sashmar/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/Sashmar/LeetCode/tree/master/3336-water-bottles-ii) |
