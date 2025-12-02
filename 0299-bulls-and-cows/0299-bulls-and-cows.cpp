@@ -4,7 +4,7 @@ public:
         int b = 0;
         int c = 0;
         int i = 0;
-        for(i = 0;i < secret.size();) {
+        while(i < secret.size()) {
             if(secret[i] == guess[i]) {
                 b++;
                 secret.erase(i, 1);
@@ -13,12 +13,13 @@ public:
             else i++;
         }
         i=0;
-        for( i = 0; i < secret.size(); i++) {
+        while(i < secret.size()) {
             int pos = guess.find(secret[i]);
             if (pos != string :: npos) {
                 guess.erase(pos, 1);
                 c++;
             }
+            i++;
         }
 
         return to_string(b) + "A" + to_string(c) + "B";
