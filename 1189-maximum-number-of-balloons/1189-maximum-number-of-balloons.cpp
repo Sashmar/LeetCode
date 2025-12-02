@@ -16,12 +16,13 @@ public:
             else if(text[i] == 'n') m['n']++; 
         }
 
-        return min({
-            m['b'],
-            m['a'],
-            m['l']/2,
-            m['o']/2,
-            m['n'],
-        });
+        for(auto &p : m) {
+            if(p.first == 'l' || p.first == 'o') {
+                a = min(a, p.second/2);
+            }
+            else a = min(a, p.second);
+        }
+
+        return a;
     }
 };
