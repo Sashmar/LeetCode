@@ -1,7 +1,8 @@
 class Solution {
 public:
     bool rotateString(string s, string goal) {
-        for(int i = 0 ; i < s.size() ; i++) {
+        if(s == goal) return true;
+        for(int i = 0 ; i < s.size() -1 ; i++) {
             rotate(s.begin(), s.begin() +1 , s.end());
             if(s == goal) return true;
         }
