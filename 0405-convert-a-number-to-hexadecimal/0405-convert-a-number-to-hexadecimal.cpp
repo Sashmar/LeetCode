@@ -3,7 +3,8 @@ public:
     string toHex(int num) {
         stringstream ss;
         ss << hex << num;
-        return ss.str();
+        string s = ss.str();
+        return s;
 
     }
 };
