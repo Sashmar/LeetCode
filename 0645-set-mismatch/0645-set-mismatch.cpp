@@ -14,7 +14,7 @@ public:
                 a[0] = i;
             }
 
-            if(m[i] == 0) a[1] = i;
+            else if(m[i] == 0) a[1] = i;
         }
 
     
