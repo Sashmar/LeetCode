@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sashmar/LeetCode/tree/master/0283-move-zeroes) |
 | [0890-lemonade-change](https://github.com/Sashmar/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sashmar/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1470-shuffle-the-array](https://github.com/Sashmar/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sashmar/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1929-concatenation-of-array](https://github.com/Sashmar/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Sashmar/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
