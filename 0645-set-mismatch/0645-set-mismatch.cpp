@@ -7,21 +7,19 @@ public:
         for(int i : nums) {
             m[i]++;
         }
-        int i =1;
-        int j = 0;
 
-        for(i = 1 ; i<= nums.size() ; i++) {
+
+        for(int i = 1 ; i<= nums.size() ; i++) {
             if(m[i] >=2) {
                 a[0] = i;
-                j = i;
             }
 
             if(m[i] == 0) a[1] = i;
         }
 
-        if (a.size() == 2) return a;
+    
         return a;
-        
+
         
 
     }
