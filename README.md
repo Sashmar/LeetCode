@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sashmar/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Sashmar/LeetCode/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/Sashmar/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Sashmar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0890-lemonade-change](https://github.com/Sashmar/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sashmar/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1470-shuffle-the-array](https://github.com/Sashmar/LeetCode/tree/master/1470-shuffle-the-array) |
