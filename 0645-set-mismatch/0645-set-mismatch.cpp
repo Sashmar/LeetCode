@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-        vector<int> a;
+        vector<int> a(2);
         sort(nums.begin(), nums.end());
         unordered_map<int,int> m;
         for(int i : nums) {
@@ -12,15 +12,11 @@ public:
 
         for(i = 1 ; i<= nums.size() ; i++) {
             if(m[i] >=2) {
-                a.push_back(i);
+                a[0] = i;
                 j = i;
             }
-        }
 
-        for(i = 1 ; i<= nums.size() ; i++) {
-            if(m[i] == 0) {
-                a.push_back(i);
-            }
+            if(m[i] == 0) a[1] = i;
         }
 
         if (a.size() == 2) return a;
