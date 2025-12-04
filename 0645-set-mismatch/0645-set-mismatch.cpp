@@ -20,10 +20,9 @@ public:
         }
 
         if (a.size() == 2) return a;
-        if(m[1] == 0) a.push_back(1);
-        else if(m[j-1]==0 && j !=1) a.push_back(j-1);
-        else a.push_back(j+1);
         return a;
+        
+        
 
     }
 
