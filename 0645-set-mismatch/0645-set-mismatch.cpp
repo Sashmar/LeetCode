@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
         vector<int> a(2);
-        sort(nums.begin(), nums.end());
         unordered_map<int,int> m;
         for(int i : nums) {
             m[i]++;
