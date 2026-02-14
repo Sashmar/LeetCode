@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sashmar/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Sashmar/LeetCode/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/Sashmar/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sashmar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sashmar/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sashmar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sashmar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sashmar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sashmar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sashmar/LeetCode/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Sashmar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/Sashmar/LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Sashmar/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sashmar/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sashmar/LeetCode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Sashmar/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sashmar/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sashmar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sashmar/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sashmar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/Sashmar/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sashmar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sashmar/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Sashmar/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sashmar/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
