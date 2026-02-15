@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Sashmar/LeetCode/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/Sashmar/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sashmar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Sashmar/LeetCode/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sashmar/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sashmar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sashmar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sashmar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sashmar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Sashmar/LeetCode/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/Sashmar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Sashmar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sashmar/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sashmar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2485-find-the-pivot-integer](https://github.com/Sashmar/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sashmar/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sashmar/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
