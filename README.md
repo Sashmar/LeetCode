@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sashmar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sashmar/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Sashmar/LeetCode/tree/master/0164-maximum-gap) |
+| [0200-number-of-islands](https://github.com/Sashmar/LeetCode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Sashmar/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sashmar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Sashmar/LeetCode/tree/master/0322-coin-change) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sashmar/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sashmar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sashmar/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Sashmar/LeetCode/tree/master/0200-number-of-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sashmar/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -337,9 +339,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sashmar/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Sashmar/LeetCode/tree/master/0322-coin-change) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sashmar/LeetCode/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sashmar/LeetCode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sashmar/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
