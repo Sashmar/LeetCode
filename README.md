@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Sashmar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sashmar/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Sashmar/LeetCode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Sashmar/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Sashmar/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/Sashmar/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sashmar/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sashmar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Sashmar/LeetCode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Sashmar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Sashmar/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Sashmar/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Sashmar/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sashmar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sashmar/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sashmar/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Sashmar/LeetCode/tree/master/0164-maximum-gap) |
+| [0242-valid-anagram](https://github.com/Sashmar/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Sashmar/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Sashmar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Sashmar/LeetCode/tree/master/0455-assign-cookies) |
