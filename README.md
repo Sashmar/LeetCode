@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sashmar/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sashmar/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/Sashmar/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Sashmar/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sashmar/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sashmar/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sashmar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sashmar/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/Sashmar/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sashmar/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Sashmar/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
