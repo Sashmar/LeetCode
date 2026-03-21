@@ -8,9 +8,8 @@ public:
             int count = 1;
             for(int j = i+ 1 ; j < nums.size() ; j ++) {
                 if(nums[j] == nums[i]) count++;
-
-                if(count == n) return nums[i];
             }
+            if(count == n) return nums[i];
         }
         return -1;
     }
