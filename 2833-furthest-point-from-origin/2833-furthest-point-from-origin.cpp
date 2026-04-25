@@ -9,7 +9,8 @@ public:
             else count++;
         }
 
-        if(t > 0) return t + count;
-        else return abs(t - count);
+        if(t > 0) t += count;
+        else t -= count;
+        return abs(t);
     }
 };
