@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Sashmar/LeetCode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Sashmar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Sashmar/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sashmar/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Sashmar/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sashmar/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sashmar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sashmar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Sashmar/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Sashmar/LeetCode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Sashmar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Sashmar/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sashmar/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
