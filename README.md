@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Sashmar/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sashmar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Sashmar/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Sashmar/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Sashmar/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Sashmar/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sashmar/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Sashmar/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Sashmar/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/Sashmar/LeetCode/tree/master/2083-three-divisors) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Sashmar/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Sashmar/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sashmar/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Sashmar/LeetCode/tree/master/2485-find-the-pivot-integer) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Sashmar/LeetCode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Sashmar/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Sashmar/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Sashmar/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sashmar/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/Sashmar/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Sashmar/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sashmar/LeetCode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/Sashmar/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/Sashmar/LeetCode/tree/master/2083-three-divisors) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Sashmar/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/Sashmar/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Design
 |  |
@@ -441,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Sashmar/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Sashmar/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
