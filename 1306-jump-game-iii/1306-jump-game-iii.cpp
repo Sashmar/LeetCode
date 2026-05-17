@@ -7,7 +7,7 @@ public:
         int n = arr.size();
         b.push_back(start);
         if(arr[start] == 0) return true;
-        while(count <= 40) {
+        while(count <= 30) {
             vector<int> c;
             for(int i = 0 ; i < b.size(); i ++) {
                 int curr = b[i];
