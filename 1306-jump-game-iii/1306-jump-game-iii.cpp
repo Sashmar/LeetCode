@@ -11,19 +11,17 @@ public:
             vector<int> c;
             for(int i = 0 ; i < b.size(); i ++) {
                 int curr = b[i];
-                if(arr[curr] < 0) continue;
                 int jump = arr[curr];
                 int g = (curr + jump);
-                if(g < n && arr[g] >= 0) {
+                if(g < n) {
                     if(arr[g] == 0) return true;
                     c.push_back(g);
                 }
                 int f = curr - jump;
-                if(f >= 0  && arr[f] >= 0) {
+                if(f >= 0) {
                     if(arr[f] == 0) return true;
                     c.push_back(f);
                 }
-                arr[curr] = -1;
             }
             b = move(c);
             count++;
