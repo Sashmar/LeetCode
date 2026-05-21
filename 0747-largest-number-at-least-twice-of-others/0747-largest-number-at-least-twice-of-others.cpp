@@ -11,8 +11,8 @@ public:
         }
 
         for(int i = 0 ; i < nums.size(); i ++) {
-            if(ind == i) continue;
-            if(m < nums[i] * 2) return -1;
+            if(m >= nums[i] * 2 || ind == i) continue;
+            else return -1;
         }
 
         return ind;
