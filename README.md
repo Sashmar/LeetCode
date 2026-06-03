@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Sashmar/LeetCode/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/Sashmar/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Sashmar/LeetCode/tree/master/1528-shuffle-string) |
+| [1550-three-consecutive-odds](https://github.com/Sashmar/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sashmar/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sashmar/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sashmar/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
