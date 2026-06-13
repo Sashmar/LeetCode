@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sashmar/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sashmar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sashmar/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3838-weighted-word-mapping](https://github.com/Sashmar/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Sashmar/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sashmar/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sashmar/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/Sashmar/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/Sashmar/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Sashmar/LeetCode/tree/master/3379-transformed-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sashmar/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/Sashmar/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
