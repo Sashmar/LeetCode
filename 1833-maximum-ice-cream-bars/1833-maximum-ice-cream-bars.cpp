@@ -8,6 +8,7 @@ public:
                 coins -= costs[i];
                 s ++;
             }
+            else break;
         }
 
         return s;
