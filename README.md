@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Sashmar/LeetCode/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sashmar/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sashmar/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0804-unique-morse-code-words](https://github.com/Sashmar/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0890-lemonade-change](https://github.com/Sashmar/LeetCode/tree/master/0890-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Sashmar/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Sashmar/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sashmar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Sashmar/LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Sashmar/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Sashmar/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sashmar/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Sashmar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sashmar/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Sashmar/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/Sashmar/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Sashmar/LeetCode/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/Sashmar/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Sashmar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/Sashmar/LeetCode/tree/master/1528-shuffle-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sashmar/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
