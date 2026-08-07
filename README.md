@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sashmar/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sashmar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sashmar/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3731-find-missing-elements](https://github.com/Sashmar/LeetCode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Sashmar/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Sashmar/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sashmar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sashmar/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3731-find-missing-elements](https://github.com/Sashmar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Sashmar/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sashmar/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sashmar/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Sashmar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
 |  |
 | ------- |
