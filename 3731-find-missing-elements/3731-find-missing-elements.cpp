@@ -9,12 +9,9 @@ public:
         while(i < nums.size()) {
             if(start != nums[i]) {
                 a.push_back(start);
-                start++;
             }
-            else {
-                i++;
-                start++;
-            }
+            else i++;
+            start++;
         }
         return a;
     }
