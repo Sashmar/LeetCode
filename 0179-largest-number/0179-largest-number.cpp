@@ -6,6 +6,7 @@ public:
             s.push_back(to_string(nums[i]));
         }
 
+        // Lambda comparison
         sort(s.begin(), s.end(), [](const string &a, const string &b) {
         return a + b > b + a; });
 
