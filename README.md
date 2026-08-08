@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sashmar/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Sashmar/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sashmar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/Sashmar/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Sashmar/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Sashmar/LeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Sashmar/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sashmar/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sashmar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sashmar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Sashmar/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Sashmar/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Sashmar/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Sashmar/LeetCode/tree/master/0344-reverse-string) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Sashmar/LeetCode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Sashmar/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Sashmar/LeetCode/tree/master/0890-lemonade-change) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sashmar/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sashmar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sashmar/LeetCode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Sashmar/LeetCode/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Sashmar/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Sashmar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sashmar/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sashmar/LeetCode/tree/master/0347-top-k-frequent-elements) |
