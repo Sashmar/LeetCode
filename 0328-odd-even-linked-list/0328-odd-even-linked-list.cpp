@@ -12,6 +12,7 @@ class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
         ListNode* dummy = new ListNode(0);
+        if(head == nullptr) return dummy -> next;
         ListNode* h1 = dummy;
         ListNode* h2 = head;
         while(h2 != nullptr) {
@@ -21,8 +22,7 @@ public:
             if(h2 != nullptr) h2 = h2 -> next;
         }
 
-        if(head != nullptr) h2 = head -> next;
-        else h2 = nullptr;
+        h2 = head -> next;
         while(h2 != nullptr) {
             h1 -> next = new ListNode(h2 -> val);
             h1 = h1 -> next;
