@@ -11,7 +11,6 @@ public:
         sort(nums.begin(), nums.end());
         int n = nums.size() -1;
         int large = nums[n];
-        if(large < sum ) return sum;
         while(true) {
             if(find(nums.begin(), nums.end(), sum) == nums.end()) return sum;
             else sum ++;
