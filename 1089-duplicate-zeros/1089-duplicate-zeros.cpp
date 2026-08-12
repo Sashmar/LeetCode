@@ -16,9 +16,7 @@ public:
             if(a.size() == arr.size()) break;
         }
 
-        for(int i = 0 ; i < arr.size() ; i ++) {
-            arr[i] = a[i];
-        }
-        
+        arr = a;
+
     }
 };
