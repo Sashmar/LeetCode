@@ -5,10 +5,10 @@ public:
         int i = 0 ;
         int j = s.size() - 1;
         while(i < s.size() && j >= 0) {
-            if (!std::isalpha(static_cast<unsigned char>(s[i]))) {
+            if (!isalpha(static_cast<unsigned char>(s[i]))) {
                 i++;
             } 
-            else if (!std::isalpha(static_cast<unsigned char>(result[j]))) {
+            else if (!isalpha(static_cast<unsigned char>(result[j]))) {
                 j--;
             }
             else {
