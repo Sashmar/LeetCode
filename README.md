@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Sashmar/LeetCode/tree/master/1642-water-bottles) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sashmar/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Sashmar/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1903-largest-odd-number-in-string](https://github.com/Sashmar/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Sashmar/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sashmar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/Sashmar/LeetCode/tree/master/2083-three-divisors) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sashmar/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sashmar/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sashmar/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1903-largest-odd-number-in-string](https://github.com/Sashmar/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sashmar/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Sashmar/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Sashmar/LeetCode/tree/master/2833-furthest-point-from-origin) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Sashmar/LeetCode/tree/master/0890-lemonade-change) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sashmar/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sashmar/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/Sashmar/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sashmar/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Sashmar/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sashmar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
