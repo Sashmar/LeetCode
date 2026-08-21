@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Sashmar/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sashmar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Sashmar/LeetCode/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sashmar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sashmar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sashmar/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sashmar/LeetCode/tree/master/0162-find-peak-element) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sashmar/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sashmar/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sashmar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sashmar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sashmar/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sashmar/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sashmar/LeetCode/tree/master/0202-happy-number) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sashmar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Sashmar/LeetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sashmar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sashmar/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Sashmar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sashmar/LeetCode/tree/master/0496-next-greater-element-i) |
