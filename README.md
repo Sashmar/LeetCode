@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sashmar/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sashmar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sashmar/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sashmar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sashmar/LeetCode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Sashmar/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Sashmar/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sashmar/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sashmar/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sashmar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sashmar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
