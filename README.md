@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Sashmar/LeetCode/tree/master/1122-relative-sort-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Sashmar/LeetCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1306-jump-game-iii](https://github.com/Sashmar/LeetCode/tree/master/1306-jump-game-iii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sashmar/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sashmar/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sashmar/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sashmar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Sashmar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Sashmar/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sashmar/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sashmar/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sashmar/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sashmar/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sashmar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sashmar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Sashmar/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sashmar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sashmar/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sashmar/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Sashmar/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sashmar/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Sashmar/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sashmar/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/Sashmar/LeetCode/tree/master/1122-relative-sort-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sashmar/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sashmar/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sashmar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sashmar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sashmar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sashmar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sashmar/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sashmar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sashmar/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Counting
