@@ -15,13 +15,13 @@ public:
         return {k, l};
     }
     string convert(string s, int numRows) {
-        if(numRows == 1) return s;
+        if(numRows == 1 || s.size() < 2) return s;
 
         string output = "";
         int m = s.size();
 
 
-        vector<vector<char>> mat(numRows, vector<char>(m, '\0'));
+        vector<vector<char>> mat(numRows, vector<char>(m-1, '\0'));
 
         int c = 0, i = 0, j = 0;
         string mov = "down";
