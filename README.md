@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Sashmar/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Sashmar/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sashmar/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sashmar/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sashmar/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sashmar/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/Sashmar/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sashmar/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sashmar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Sashmar/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sashmar/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Sashmar/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sashmar/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/Sashmar/LeetCode/tree/master/2540-minimum-common-value) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sashmar/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sashmar/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Sashmar/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sashmar/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sashmar/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/Sashmar/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sashmar/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
