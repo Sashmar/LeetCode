@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Sashmar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Sashmar/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sashmar/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Sashmar/LeetCode/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sashmar/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Sashmar/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sashmar/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sashmar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sashmar/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Sashmar/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Sashmar/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Sashmar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Sashmar/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Sashmar/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Sashmar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sashmar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Sashmar/LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Sashmar/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Sashmar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sashmar/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sashmar/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
