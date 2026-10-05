@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Sashmar/LeetCode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Sashmar/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/Sashmar/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Sashmar/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Sashmar/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/Sashmar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sashmar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sashmar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Sashmar/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Sashmar/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Sashmar/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sashmar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sashmar/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sashmar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sashmar/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Sashmar/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sashmar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sashmar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
