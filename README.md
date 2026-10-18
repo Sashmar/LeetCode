@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sashmar/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sashmar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sashmar/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Sashmar/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1748-sum-of-unique-elements](https://github.com/Sashmar/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sashmar/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Sashmar/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sashmar/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sashmar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sashmar/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Sashmar/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sashmar/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sashmar/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sashmar/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sashmar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sashmar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sashmar/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Sashmar/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sashmar/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sashmar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Sashmar/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Sashmar/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Sashmar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sashmar/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Sashmar/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sashmar/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/Sashmar/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2833-furthest-point-from-origin](https://github.com/Sashmar/LeetCode/tree/master/2833-furthest-point-from-origin) |
