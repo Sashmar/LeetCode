@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Sashmar/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sashmar/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sashmar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sashmar/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sashmar/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sashmar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sashmar/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Sashmar/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1748-sum-of-unique-elements](https://github.com/Sashmar/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sashmar/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sashmar/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Sashmar/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Sashmar/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sashmar/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sashmar/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/Sashmar/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sashmar/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sashmar/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2470-removing-stars-from-a-string](https://github.com/Sashmar/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Sashmar/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sashmar/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Sashmar/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sashmar/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/Sashmar/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sashmar/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Sashmar/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2833-furthest-point-from-origin](https://github.com/Sashmar/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Counting Sort
