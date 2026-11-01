@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Sashmar/LeetCode/tree/master/1122-relative-sort-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sashmar/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Sashmar/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Sashmar/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Sashmar/LeetCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1306-jump-game-iii](https://github.com/Sashmar/LeetCode/tree/master/1306-jump-game-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sashmar/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sashmar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Sashmar/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Sashmar/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Sashmar/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sashmar/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sashmar/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Sashmar/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sashmar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Sashmar/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Sashmar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Sashmar/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sashmar/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sashmar/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sashmar/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Sashmar/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Sashmar/LeetCode/tree/master/0322-coin-change) |
+| [1267-count-servers-that-communicate](https://github.com/Sashmar/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Sashmar/LeetCode/tree/master/1306-jump-game-iii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sashmar/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
@@ -742,12 +746,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sashmar/LeetCode/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sashmar/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Sashmar/LeetCode/tree/master/1306-jump-game-iii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sashmar/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sashmar/LeetCode/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sashmar/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sashmar/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Quickselect
 |  |
