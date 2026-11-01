@@ -19,7 +19,10 @@ public:
             }
         }
 
-        if(t) check.insert({i,j});
+        if(t) {
+            check.insert({i,j});
+            grid[i][j]= 0;
+        }
 
     }
 
@@ -33,7 +36,7 @@ public:
             for(int j = 0 ; j < n ; j ++) {
                 if(grid[i][j] == 0) continue;
                 
-                if(check.count({i, j}) == 0) checkConnect(grid, i, j, m, n);
+                checkConnect(grid, i, j, m, n);
             }
         }
 
