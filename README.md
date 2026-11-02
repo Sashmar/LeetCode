@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Sashmar/LeetCode/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sashmar/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/Sashmar/LeetCode/tree/master/0941-valid-mountain-array) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Sashmar/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sashmar/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sashmar/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1089-duplicate-zeros](https://github.com/Sashmar/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sashmar/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Sashmar/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sashmar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Sashmar/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sashmar/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sashmar/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sashmar/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sashmar/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Sashmar/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sashmar/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Sashmar/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1122-relative-sort-array](https://github.com/Sashmar/LeetCode/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sashmar/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sashmar/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sashmar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sashmar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Sashmar/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Sashmar/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1189-maximum-number-of-balloons](https://github.com/Sashmar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/Sashmar/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sashmar/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
