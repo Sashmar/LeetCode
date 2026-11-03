@@ -30,7 +30,7 @@ public:
 
         mt19937 gen(rd());
 
-        uniform_int_distribution<> distr(0, a.size() -1);
+        uniform_int_distribution<int> distr(0, a.size() -1);
 
         int ind = distr(gen);
 
