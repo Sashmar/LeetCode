@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sashmar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sashmar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sashmar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sashmar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Sashmar/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sashmar/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sashmar/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sashmar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sashmar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sashmar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sashmar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/Sashmar/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sashmar/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sashmar/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sashmar/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Sashmar/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Sashmar/LeetCode/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sashmar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sashmar/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Sashmar/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Sashmar/LeetCode/tree/master/0441-arranging-coins) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Sashmar/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sashmar/LeetCode/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sashmar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String Matching
 |  |
 | ------- |
@@ -856,4 +860,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sashmar/LeetCode/tree/master/0146-lru-cache) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sashmar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
