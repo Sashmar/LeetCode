@@ -42,35 +42,19 @@ public:
         int i = 0;
         int j = 0;
 
-        bool b = checktriple(board, i, j, m, n);
-        if(!b) return false;
-        j += 3;
-        b = checktriple(board, i, j, m, n);
-        if(!b) return false;
-        j += 3;
-        b = checktriple(board, i, j, m, n);
-        if(!b) return false;
-        i += 3;
-        j = 0;
-        b = checktriple(board, i, j, m, n);
-        if(!b) return false;
-        j+= 3;
-        b = checktriple(board, i, j, m, n);
-        if(!b) return false;
+        for(int k = 0 ; k < 9 ; k ++) {
+            bool b = checktriple(board, i, j, m, n);
+            if(!b) return false;
 
-        j += 3;
-        b = checktriple(board, i, j, m , n);
-        if(!b) return false;
-        i += 3;
-        j = 0;
-        b = checktriple(board, i, j, m , n);
-        if(!b) return false;
-        j += 3;
-        b = checktriple(board, i, j, m, n);
-        if(!b) return false;
-        j += 3;
-        b = checktriple(board, i, j, m , n);
-        if(!b) return false;
+            if(j == 6) {
+                i += 3;
+                j = 0;
+            }
+
+            else j += 3;
+        }
+
+        
         return true;
     }
 };
