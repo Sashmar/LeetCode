@@ -8,14 +8,11 @@ public:
     int next(int price) {
         int c = 1;
         a.push_back(price);
-        reverse(a.begin(), a.end());
 
-        for(int i = 1 ; i < a.size() ; i ++) {
-            if(a[i] <= a[0]) c++;
+        for(int i = a.size() - 2 ; i >= 0 ; i --) {
+            if(a[i] <= a[a.size() - 1]) c++;
             else break;
         }
-
-        reverse(a.begin(), a.end());
 
         return c;
     }
