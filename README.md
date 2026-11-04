@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Sashmar/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Sashmar/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Sashmar/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/Sashmar/LeetCode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sashmar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sashmar/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sashmar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Sashmar/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sashmar/LeetCode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sashmar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/Sashmar/LeetCode/tree/master/0901-online-stock-span) |
 ## String Matching
 |  |
 | ------- |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sashmar/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Sashmar/LeetCode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sashmar/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Backtracking
 |  |
@@ -864,4 +867,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sashmar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Sashmar/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
