@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Sashmar/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sashmar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sashmar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/Sashmar/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/Sashmar/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Sashmar/LeetCode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Sashmar/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sashmar/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Sashmar/LeetCode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Sashmar/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/Sashmar/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Sashmar/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Sashmar/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Sashmar/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sashmar/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sashmar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Sashmar/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/Sashmar/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sashmar/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Sashmar/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sashmar/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
