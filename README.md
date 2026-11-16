@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Sashmar/LeetCode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sashmar/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/Sashmar/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3843-first-element-with-unique-frequency](https://github.com/Sashmar/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sashmar/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Sashmar/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sashmar/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sashmar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sashmar/LeetCode/tree/master/3731-find-missing-elements) |
+| [3843-first-element-with-unique-frequency](https://github.com/Sashmar/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 ## Math
 |  |
 | ------- |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Sashmar/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sashmar/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/Sashmar/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3843-first-element-with-unique-frequency](https://github.com/Sashmar/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 ## Counting Sort
 |  |
 | ------- |
