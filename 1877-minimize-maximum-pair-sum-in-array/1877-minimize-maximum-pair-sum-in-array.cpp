@@ -4,9 +4,10 @@ public:
         sort(nums.begin(), nums.end());
 
         int m = 0;
+        int n = nums.size() - 1;
 
         for(int i = 0 ; i < nums.size() ; i ++) {
-            int sum = nums[i] + nums[nums.size() - 1 - i];
+            int sum = nums[i] + nums[n - i];
             m = max(m, sum); 
         }
 
