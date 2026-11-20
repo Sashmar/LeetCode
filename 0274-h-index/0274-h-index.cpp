@@ -19,9 +19,7 @@ public:
         int h = 0;
 
         for(int i = 0 ; i < a.size() ; i ++) {
-            if(i + 1 <= a[i]) {
-                h = i + 1;
-            }
+            if(i + 1 <= a[i]) h = i + 1;
         }
 
         return h;
