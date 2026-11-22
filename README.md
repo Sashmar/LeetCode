@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Sashmar/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sashmar/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sashmar/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sashmar/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Sashmar/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Sashmar/LeetCode/tree/master/1122-relative-sort-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sashmar/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Sashmar/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Sashmar/LeetCode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sashmar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sashmar/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Sashmar/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sashmar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sashmar/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Sashmar/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sashmar/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sashmar/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sashmar/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sashmar/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sashmar/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sashmar/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sashmar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Sashmar/LeetCode/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sashmar/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sashmar/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Backtracking
 |  |
