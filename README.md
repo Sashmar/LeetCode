@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sashmar/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/Sashmar/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sashmar/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Sashmar/LeetCode/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sashmar/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sashmar/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sashmar/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Sashmar/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sashmar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-water-bottles-ii](https://github.com/Sashmar/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/Sashmar/LeetCode/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/Sashmar/LeetCode/tree/master/3379-transformed-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sashmar/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sashmar/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
