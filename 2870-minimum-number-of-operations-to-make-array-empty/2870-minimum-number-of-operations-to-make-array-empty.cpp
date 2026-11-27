@@ -14,7 +14,8 @@ public:
             }
 
             else {
-                int count1 = (num.second % 2 == 0)? num.second / 2 : INT_MAX;
+                int count1 = INT_MAX;
+                if(num.second % 2 == 0) count1 = num.second / 2; 
                 int b = num.second / 3;
                 int c = INT_MAX;
                 for(int i = 3 * b ; i >= 3 ; i -= 3) {
